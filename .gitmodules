@@ -25,3 +25,15 @@
 [submodule "5347b1f623aa722c0a4d8afd01418917"]
 	path = 5347b1f623aa722c0a4d8afd01418917
 	url = https://gist.github.com/5347b1f623aa722c0a4d8afd01418917.git
+[submodule "d786115c1d01eac73763d4e052db5b2e"]
+	path = d786115c1d01eac73763d4e052db5b2e
+	url = https://gist.github.com/d786115c1d01eac73763d4e052db5b2e.git
+[submodule "68f8cdc5fbdd35c05cc5c6dccafb63b2"]
+	path = 68f8cdc5fbdd35c05cc5c6dccafb63b2
+	url = https://gist.github.com/68f8cdc5fbdd35c05cc5c6dccafb63b2.git
+[submodule "ba16f88455b71bceb6e96c82473e0280"]
+	path = ba16f88455b71bceb6e96c82473e0280
+	url = https://gist.github.com/ba16f88455b71bceb6e96c82473e0280.git
+[submodule "725de91a754f807020d0bcd6d30f668a"]
+	path = 725de91a754f807020d0bcd6d30f668a
+	url = https://gist.github.com/725de91a754f807020d0bcd6d30f668a.git
