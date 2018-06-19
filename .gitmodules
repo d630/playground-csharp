@@ -37,3 +37,12 @@
 [submodule "725de91a754f807020d0bcd6d30f668a"]
 	path = 725de91a754f807020d0bcd6d30f668a
 	url = https://gist.github.com/725de91a754f807020d0bcd6d30f668a.git
+[submodule "68dcfc707621e683e390a09c75290246"]
+	path = 68dcfc707621e683e390a09c75290246
+	url = https://gist.github.com/68dcfc707621e683e390a09c75290246.git
+[submodule "a31d63a05a41f0e32c3b4b8edce1fbca"]
+	path = a31d63a05a41f0e32c3b4b8edce1fbca
+	url = https://gist.github.com/a31d63a05a41f0e32c3b4b8edce1fbca.git
+[submodule "c16f6cbb38740abdbf9ff849c8d89da7"]
+	path = c16f6cbb38740abdbf9ff849c8d89da7
+	url = https://gist.github.com/d630/c16f6cbb38740abdbf9ff849c8d89da7
