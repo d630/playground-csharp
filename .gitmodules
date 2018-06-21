@@ -46,3 +46,15 @@
 [submodule "c16f6cbb38740abdbf9ff849c8d89da7"]
 	path = c16f6cbb38740abdbf9ff849c8d89da7
 	url = https://gist.github.com/d630/c16f6cbb38740abdbf9ff849c8d89da7
+[submodule "bbdb8d077b9a43dab1591aee9d814289"]
+	path = bbdb8d077b9a43dab1591aee9d814289
+	url = https://gist.github.com/d630/bbdb8d077b9a43dab1591aee9d814289
+[submodule "f0c0052691d9a82a2742bbe23d8f6f25"]
+	path = f0c0052691d9a82a2742bbe23d8f6f25
+	url = https://gist.github.com/d630/f0c0052691d9a82a2742bbe23d8f6f25
+[submodule "70d2bebd53e7d1d380392f85eb8f5f49"]
+	path = 70d2bebd53e7d1d380392f85eb8f5f49
+	url = https://gist.github.com/d630/70d2bebd53e7d1d380392f85eb8f5f49
+[submodule "1de061409cd6c2339adad03abff7d632"]
+	path = 1de061409cd6c2339adad03abff7d632
+	url = https://gist.github.com/d630/1de061409cd6c2339adad03abff7d632
