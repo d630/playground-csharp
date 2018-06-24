@@ -58,3 +58,6 @@
 [submodule "1de061409cd6c2339adad03abff7d632"]
 	path = 1de061409cd6c2339adad03abff7d632
 	url = https://gist.github.com/d630/1de061409cd6c2339adad03abff7d632
+[submodule "c760d9242063db9cffd18cddacce72c0"]
+	path = c760d9242063db9cffd18cddacce72c0
+	url = https://gist.github.com/c760d9242063db9cffd18cddacce72c0.git
