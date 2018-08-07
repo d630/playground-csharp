@@ -66,10 +66,16 @@
 	url = https://gist.github.com/33a31ef671970a21a921e1cf6e3df829.git
 [submodule "6f479051c95886a3ea518107418155e3"]
 	path = 6f479051c95886a3ea518107418155e3
-	url = https://gist.github.com/6f479051c95886a3ea518107418155e3.git
+	url = https://gist.github.com/d630/6f479051c95886a3ea518107418155e3
 [submodule "41dbe2ace1ebaeb10716c4b8fd728f9a"]
 	path = 41dbe2ace1ebaeb10716c4b8fd728f9a
 	url = https://gist.github.com/41dbe2ace1ebaeb10716c4b8fd728f9a.git
 [submodule "4ab20a828c6e5e5a45fe89f66b93fa02"]
 	path = 4ab20a828c6e5e5a45fe89f66b93fa02
 	url = https://gist.github.com/4ab20a828c6e5e5a45fe89f66b93fa02.git
+[submodule "e3e7c06942d0a60840aed7287613caa5"]
+	path = e3e7c06942d0a60840aed7287613caa5
+	url = https://gist.github.com/e3e7c06942d0a60840aed7287613caa5.git
+[submodule "4c1b76f1e166ff1a0b0023ad84551cd5"]
+	path = 4c1b76f1e166ff1a0b0023ad84551cd5
+	url = https://gist.github.com/d630/4c1b76f1e166ff1a0b0023ad84551cd5
